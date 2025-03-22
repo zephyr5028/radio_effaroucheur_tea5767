@@ -1,5 +1,5 @@
 /*
-  Effaroucheur avec TEA5767 et un arduino nano
+  Radio effaroucheur avec TEA5767 et un arduino nano
   frequences radio pre-enregistrees
   jlm 2025 03
 */
